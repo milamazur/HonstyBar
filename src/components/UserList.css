@@ -1,0 +1,4 @@
+.userList-Grid{
+    max-height: 78vh;
+    overflow-y: scroll;
+}

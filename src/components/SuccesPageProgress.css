@@ -1,0 +1,8 @@
+.succesPage-progressBar {
+    animation: fullWidth 5s linear;
+}
+
+@keyframes fullWidth {
+    from { width: 0%; }
+    to { width: 100%; } 
+}

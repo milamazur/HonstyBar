@@ -1,0 +1,8 @@
+.productGrid-productsGrid {
+    overflow-y: scroll;
+    max-height: 100%;
+}
+
+.productGrid-oneProductGrid {
+    border-radius: 10px;
+}
